@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "book_cover1.jpg",
+    "cover": "1.jpg",
     "title": "The Art of Programming",
     "author": "John Smith",
     "author_img": "author_image1.jpg",
@@ -12,7 +12,7 @@
 
   {
     "id": 2,
-    "cover": "book_cover2.jpg",
+    "cover": "2.png",
     "title": "Cooking Made Easy",
     "author": "Alice Johnson",
     "author_img": "author_image2.jpg",
@@ -23,7 +23,7 @@
 
   {
     "id": 3,
-    "cover": "book_cover3.jpg",
+    "cover": "3.png",
     "title": "The History of Art",
     "author": "David Miller",
     "author_img": "author_image3.jpg",
@@ -34,23 +34,12 @@
 
   {
     "id": 4,
-    "cover": "book_cover4.jpg",
+    "cover": "4.jpg",
     "title": "Traveling the World",
     "author": "Emily Davis",
     "author_img": "author_image4.jpg",
     "posted_date": "2023-09-09",
     "reading_time": "4 hours",
     "hashtags": ["travel", "adventure", "explore"]
-  },
-
-  {
-    "id": 5,
-    "cover": "book_cover5.jpg",
-    "title": "Financial Freedom Handbook",
-    "author": "Michael Brown",
-    "author_img": "author_image5.jpg",
-    "posted_date": "2023-09-08",
-    "reading_time": "2.5 hours",
-    "hashtags": ["finance", "investing", "money"]
   }
 ]
